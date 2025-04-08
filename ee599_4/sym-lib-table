@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "VCO_505")(type "KiCad")(uri "/Users/mshun/Documents/KiCad/libs/VCO_505/VCO_505.kicad_sym")(options "")(descr ""))
+)
