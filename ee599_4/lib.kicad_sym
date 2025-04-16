@@ -1253,7 +1253,7 @@
 			(pin input line
 				(at 54.61 24.13 180)
 				(length 2.54)
-				(name "FVCO_Min"
+				(name "VC_Min"
 					(effects
 						(font
 							(size 1.27 1.27)
